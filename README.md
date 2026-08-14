@@ -7,7 +7,7 @@
 Student Name:Lehlohonolo Hlabane
 Student Number:10480055
 Module:Web Development
-Project:Part 1 – Building the Foundation: Project Initiation and Planning
+Project:Part 1 –Building the Foundation: Project Initiation and Planning
 
 ## Project Overview
 
