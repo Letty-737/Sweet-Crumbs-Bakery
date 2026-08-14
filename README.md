@@ -1,14 +1,12 @@
-
-
- Sweet Crumbs Bakery Website
+ <h1>Sweet Crumbs Bakery Website</h1>
  
-Project Overview
+<h1>Project Overview</h1>
 
 Sweet Crumbs Bakery is a small bakery business that provides cakes, cupcakes and pastries to customers. The purpose of this project is to develop a functional, informative and visually appealing website for the bakery.
 
 The website will provide customers with information about the bakery, its products, enquiry options and contact details. The website is designed to be easy to navigate and accessible to users.
 
-Project Goals
+<h1>Project Goals</h1>
 
 The main goals of the Sweet Crumbs Bakery website are:
 
@@ -19,7 +17,7 @@ The main goals of the Sweet Crumbs Bakery website are:
 * To create a simple and user-friendly website.
 * To demonstrate the use of standards-compliant HTML.
 
-Key Features
+<h1>Key Features</h1>
 
 The website will contain five main pages:
 
@@ -40,38 +38,29 @@ The website will include:
 * Location information and maps.
 * Internal links between all pages.
 
-Website Structure / Sitemap
+<h1>Website Structure / Sitemap</h1>
 
-```text
 Sweet Crumbs Bakery
 
 Home
 About Us
- Products
- Enquiry
- Contact
-```
+Products
+Enquiry
+Contact
 
-Project File Structure
+<h1>Project File Structure</h1>
 
 -Sweet Crumbs Bakery
 -Home.html
 -About.html
 -Products.html
- -Enquiry.html
+-Enquiry.html
 -Contact.html
 -index.html
 
-. images
--bakery.jpg
- -team.jpg
- -cake.jpg
- -cupcake.jpg
--Pastries
+<h1>Timeline</h1>
 
-Timeline
-
- Activity        Planned Stage 
+Activity        Planned Stage 
  
 Project planning - Week 1     
 Content research  -Week 1        
@@ -87,7 +76,7 @@ Part 1 focuses on project initiation and planning. The project includes selectin
 
 The project uses HTML5 and semantic HTML elements such as header, navigation, main and footer. The website will be tested to ensure that navigation links and content work correctly.
 
-Changelog
+<h1>Changelog</h1>
 
 
 * Created the Sweet Crumbs Bakery project.
@@ -103,7 +92,7 @@ Changelog
 * Corrected navigation links.
 * Tested website pages.
 
-References
+<h1>References</h1>
 
 GitHub Docs. (2026). *Uploading a project to GitHub*. Available at: https://docs.github.com/en/get-started/start-your-journey/uploading-a-project-to-github (Accessed: 13 August 2026).
 
