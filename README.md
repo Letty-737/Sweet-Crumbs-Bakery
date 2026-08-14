@@ -91,6 +91,7 @@ The project uses HTML5 and semantic HTML elements such as header, navigation, ma
 * Improved page content.
 * Corrected navigation links.
 * Tested website pages.
+* Pexels pictures
 
 <h1>References</h1>
 
