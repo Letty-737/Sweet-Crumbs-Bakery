@@ -51,32 +51,30 @@ The website will include:
 
 ```text
 Sweet Crumbs Bakery
-│
-├── Home
-├── About Us
-├── Products
-├── Enquiry
-└── Contact
+
+Home
+About Us
+ Products
+ Enquiry
+ Contact
 ```
 
 ## Project File Structure
 
-```text
-Sweet Crumbs Bakery
-│
-├── Home.html
-├── About.html
-├── Products.html
-├── Enquiry.html
-├── Contact.html
-├── index.html
-│
-└── images
-    ├── bakery.jpg
-    ├── team.jpg
-    ├── cake.jpg
-    └── cupcake.jpg
-```
+-Sweet Crumbs Bakery
+-Home.html
+-About.html
+-Products.html
+ -Enquiry.html
+-Contact.html
+-index.html
+
+. images
+   - bakery.jpg
+    -team.jpg
+     -cake.jpg
+    -cupcake.jpg
+-Pastries
 
 ## Timeline
 
