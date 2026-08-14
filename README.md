@@ -1,21 +1,14 @@
 
 
-# Sweet Crumbs Bakery Website
-
-## Student Information
-
-Student Name:Lehlohonolo Hlabane
-Student Number:10480055
-Module:Web Development
-Project:Part 1 –Building the Foundation: Project Initiation and Planning
-
-## Project Overview
+ Sweet Crumbs Bakery Website
+ 
+Project Overview
 
 Sweet Crumbs Bakery is a small bakery business that provides cakes, cupcakes and pastries to customers. The purpose of this project is to develop a functional, informative and visually appealing website for the bakery.
 
 The website will provide customers with information about the bakery, its products, enquiry options and contact details. The website is designed to be easy to navigate and accessible to users.
 
-## Project Goals
+Project Goals
 
 The main goals of the Sweet Crumbs Bakery website are:
 
@@ -26,7 +19,7 @@ The main goals of the Sweet Crumbs Bakery website are:
 * To create a simple and user-friendly website.
 * To demonstrate the use of standards-compliant HTML.
 
-## Key Features
+Key Features
 
 The website will contain five main pages:
 
@@ -47,7 +40,7 @@ The website will include:
 * Location information and maps.
 * Internal links between all pages.
 
-## Website Structure / Sitemap
+Website Structure / Sitemap
 
 ```text
 Sweet Crumbs Bakery
@@ -59,7 +52,7 @@ About Us
  Contact
 ```
 
-## Project File Structure
+Project File Structure
 
 -Sweet Crumbs Bakery
 -Home.html
@@ -76,27 +69,26 @@ About Us
     -cupcake.jpg
 -Pastries
 
-## Timeline
+Timeline
 
-| Activity                | Planned Stage |
-| ----------------------- | ------------- |
-| Project planning        | Week 1        |
-| Content research        | Week 1        |
-| Website structure       | Week 2        |
-| HTML development        | Week 2–3      |
-| Testing and corrections | Week 3        |
-| Final documentation     | Week 4        |
-| Final submission        | Week 4        |
+ Activity        Planned Stage 
+ 
+Project planning - Week 1     
+Content research  -Week 1        
+ Website structure - Week 2        
+HTML development    -Week 2–3      
+Testing and corrections- Week 3        
+Final documentation  - Week 4        
+Final submission   -Week 4        
 
-## Part 1 Details
+Part 1 Details
 
 Part 1 focuses on project initiation and planning. The project includes selecting the organization, researching website requirements, planning the website structure, sourcing appropriate images legally and developing the initial HTML pages.
 
 The project uses HTML5 and semantic HTML elements such as header, navigation, main and footer. The website will be tested to ensure that navigation links and content work correctly.
 
-## Changelog
+Changelog
 
-### Version 1.0
 
 * Created the Sweet Crumbs Bakery project.
 * Created the initial HTML pages.
@@ -105,14 +97,13 @@ The project uses HTML5 and semantic HTML elements such as header, navigation, ma
 * Added navigation links.
 * Added initial website content.
 
-### Version 1.1
 
 * Added contact and location information.
 * Improved page content.
 * Corrected navigation links.
 * Tested website pages.
 
-## References
+References
 
 GitHub Docs. (2026). *Uploading a project to GitHub*. Available at: https://docs.github.com/en/get-started/start-your-journey/uploading-a-project-to-github (Accessed: 13 August 2026).
 
