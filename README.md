@@ -63,10 +63,10 @@ Project File Structure
 -index.html
 
 . images
-   - bakery.jpg
-    -team.jpg
-     -cake.jpg
-    -cupcake.jpg
+-bakery.jpg
+ -team.jpg
+ -cake.jpg
+ -cupcake.jpg
 -Pastries
 
 Timeline
