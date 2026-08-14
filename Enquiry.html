@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+   <html>
+   <head>
+    <title>Sweet Crumbs Bakery - Enquiry</title>
+   </head>
+    <body>
+    <header>
+        <h1>Make an Enquiry</h1>
+        <p>Tell us what you need</p>
+        <nav>
+            <a href="index.html">Home</a> |
+            <a href="About.html">About Us</a> |
+            <a href="Products.html">Products</a> |
+            <a href="Enquiry.html">Enquiry</a> |
+            <a href="Contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+
+        <div>
+            <h2>We Would Love to Hear From You</h2>
+
+            <p>
+                Do you have a question about our products? Would you
+                like to order a cake or cupcakes for a special event?
+                Complete the form below and tell us what you need.
+            </p>
+
+            <p>
+                You can use this form to enquire about cakes,
+                cupcakes, pastries, custom designs and special events.
+            </p>
+        </div>
+
+        <div>
+            <h2>Customer Enquiry Form</h2>
+
+            <form>
+
+                <fieldset>
+                    <legend>Personal Information</legend>
+
+                    <p>
+                        <label for="name">Full Name:</label><br>
+                        <input type="text" id="name" name="name" required>
+                    </p>
+
+                    <p>
+                        <label for="email">Email Address:</label><br>
+                        <input type="email" id="email" name="email" required>
+                    </p>
+
+                    <p>
+                        <label for="phone">Phone Number:</label><br>
+                        <input type="tel" id="phone" name="phone">
+                    </p>
+                </fieldset>
+
+                <br>
+
+                <fieldset>
+                    <legend>Order Information</legend>
+
+                    <p>
+                        <label for="product">What would you like?</label><br>
+
+                        <select id="product" name="product">
+                            <option value="">Select a product</option>
+                            <option value="cake">Cake</option>
+                            <option value="cupcakes">Cupcakes</option>
+                            <option value="pastries">Pastries</option>
+                            <option value="other">Other</option>
+                        </select>
+                    </p>
+
+                    <p>
+                        <label for="quantity">Quantity:</label><br>
+                        <input type="number" id="quantity"
+                               name="quantity" min="1">
+                    </p>
+
+                    <p>
+                        <label for="date">Preferred Date:</label><br>
+                        <input type="date" id="date" name="date">
+                    </p>
+
+                    <p>
+                        <label for="occasion">What is the occasion?</label><br>
+                        <input type="text" id="occasion"
+                               name="occasion"
+                               placeholder="Example: Birthday">
+                    </p>
+
+                    <p>
+                        <label for="message">Tell Us More:</label><br>
+                        <textarea id="message"
+                                  name="message"
+                                  rows="8"
+                                  cols="50"
+                                  placeholder="Describe your order or question"></textarea>
+                    </p>
+                </fieldset>
+
+                <br>
+
+                <fieldset>
+                    <legend>Preferred Contact Method</legend>
+
+                    <p>
+                        <input type="radio"
+                               id="emailContact"
+                               name="contactMethod"
+                               value="email">
+
+                        <label for="emailContact">Email</label>
+                    </p>
+
+                    <p>
+                        <input type="radio"
+                               id="phoneContact"
+                               name="contactMethod"
+                               value="phone">
+
+                        <label for="phoneContact">Phone</label>
+                    </p>
+                </fieldset>
+
+                <br>
+
+                <input type="submit" value="Submit Enquiry">
+                <input type="reset" value="Clear Form">
+
+            </form>
+        </div>
+
+        <div>
+            <h2>Information to Include</h2>
+
+            <ul>
+                <li>Your name and contact details.</li>
+                <li>The product you are interested in.</li>
+                <li>The quantity required.</li>
+                <li>Your preferred date.</li>
+                <li>The type of occasion.</li>
+                <li>Any special design requirements.</li>
+            </ul>
+        </div>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Sweet Crumbs Bakery. All rights reserved.</p>
+    </footer>
+ </body>
+ </html>
