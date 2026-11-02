@@ -190,7 +190,7 @@ The navigation menu allows visitors to move between the different sections of th
 The project is intended to be organised into the following main files and folders:
 
 Sweet-Crumbs-Bakery
-├── assets 
+_assets 
 - About
 - Menu
 - Specials
@@ -198,12 +198,12 @@ Sweet-Crumbs-Bakery
 - Enquiry
 - Contact
 - Shopping Bag
-├── CSS
-│   └── Stylesheets
-├── JS/
-│   └── JavaScript files
-├── index.html
-└── README.md
+  _ CSS
+    └Stylesheets
+ _ JS
+    └ JavaScript files
+   _index.html
+  _ README.md
 
 
 *Note: This is the documented project structure. The actual exported project may contain additional files, folders or different naming conventions.*
@@ -242,14 +242,14 @@ The website was designed with user experience in mind, ensuring that visitors ca
 
 The following tools and resources were used during the project:
 
-- **Lovable:** Used to create, design, develop and publish the website.
-- **Unsplash:** Used as a source of bakery and product photographs displayed on the website.
-- **Pexels:** A photography resource for bakery-related visual inspiration and images, where applicable.
-- **HTML:** Relevant to the structure and organisation of website content.
-- **CSS:** Relevant to the visual presentation, layout and styling of the website.
-- **JavaScript:** Relevant to interactive website features where implemented.
-- **Web Browser:** Used to access and review the published website.
-- **GitHub:** Used for project storage, version control and documentation where applicable.
+- Lovable: Used to create, design, develop and publish the website.
+- Unsplash:Used as a source of bakery and product photographs displayed on the website.
+- Pexels: A photography resource for bakery-related visual inspiration and images, where applicable.
+- HTML: Relevant to the structure and organisation of website content.
+- CSS:Relevant to the visual presentation, layout and styling of the website.
+- JavaScript: Relevant to interactive website features where implemented.
+- Web Browser:Used to access and review the published website.
+- GitHub: Used for project storage, version control and documentation where applicable.
 
 The website was developed through Lovable. The exact underlying programming languages, frameworks and packages should be confirmed from the exported project files before being listed as definite technologies.
 
