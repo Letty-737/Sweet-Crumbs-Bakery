@@ -109,7 +109,6 @@ Pixabay. (2026). *Free images*. Available at: https://pixabay.com/ (Accessed: 13
 - **Student Name:** Lehlohonolo Hlabane
 - **Student Number:** ST10480055
 - **Project Name:** Sweet Crumbs Bakery
-- **Development Platform:** Lovable
 - **Live Website:** https://sweet-scrumbs-bakery.lovable.app/
 
 ---
