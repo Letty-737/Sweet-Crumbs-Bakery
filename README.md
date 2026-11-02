@@ -251,8 +251,6 @@ The following tools and resources were used during the project:
 - Web Browser:Used to access and review the published website.
 - GitHub: Used for project storage, version control and documentation where applicable.
 
-The website was developed through Lovable. The exact underlying programming languages, frameworks and packages should be confirmed from the exported project files before being listed as definite technologies.
-
 # 9. Changelog
 
 The following activities describe the main development stages of the Sweet Crumbs Bakery website:
@@ -325,8 +323,6 @@ Possible improvements that could be made to the Sweet Crumbs Bakery website incl
 
 # 12. References
 
-The following references acknowledge the tools, resources and technical documentation relevant to the development of the Sweet Crumbs Bakery website.
-
 ## 12.1 Website Development and Design
 
 Lovable (n.d.). *AI Website Builder*. Available at: https://lovable.dev/ (Accessed: 2 November 2026).
@@ -364,8 +360,6 @@ GitHub Docs (n.d.). *Quickstart for Repositories*. Available at: https://docs.gi
 ## 12.5 Completed Website
 
 Sweet Crumbs Bakery (2026). *Sweet Crumbs Bakery Website*. Available at: https://sweet-scrumbs-bakery.lovable.app/ (Accessed: 2 November 2026).
-
-*Reference note: The resources above acknowledge the development platform, image resources and technical documentation relevant to this project. Only retain image sources that you actually used. The technical documentation is included as supporting material, not as a claim that every feature was implemented directly from those tutorials.*
 
 # 13. Conclusion
 
