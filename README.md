@@ -189,11 +189,8 @@ The navigation menu allows visitors to move between the different sections of th
 
 The project is intended to be organised into the following main files and folders:
 
-```text
-Sweet-Crumbs-Bakery/
-│
-├── assets/
-│   
+Sweet-Crumbs-Bakery
+├── assets 
 - About
 - Menu
 - Specials
@@ -201,17 +198,13 @@ Sweet-Crumbs-Bakery/
 - Enquiry
 - Contact
 - Shopping Bag
-│
-├── CSS/
+├── CSS
 │   └── Stylesheets
-│
 ├── JS/
 │   └── JavaScript files
-│
 ├── index.html
-│
 └── README.md
-```
+
 
 *Note: This is the documented project structure. The actual exported project may contain additional files, folders or different naming conventions.*
 
