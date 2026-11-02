@@ -321,47 +321,7 @@ Possible improvements that could be made to the Sweet Crumbs Bakery website incl
 - Testing the website across different devices and browsers.
 - Improving website accessibility and search engine optimisation.
 
-# 12. References
-
-## 12.1 Website Development and Design
-
-Lovable (n.d.). *AI Website Builder*. Available at: https://lovable.dev/ (Accessed: 2 November 2026).
-
-Lovable (n.d.). *Lovable Documentation*. Available at: https://docs.lovable.dev/ (Accessed: 2 November 2026).
-
-## 12.2 Images and Visual Resources
-
-Unsplash (n.d.). *Free Images and Photography*. Available at: https://unsplash.com/ (Accessed: 2 November 2026).
-
-Unsplash (n.d.). *Unsplash License*. Available at: https://unsplash.com/license (Accessed: 2 November 2026).
-
-Pexels (n.d.). *Free Stock Photos*. Available at: https://www.pexels.com/ (Accessed: 2 November 2026).
-
-Pixabay (n.d.). *Free Images and Stock Photography*. Available at: https://pixabay.com/ (Accessed: 2 November 2026).
-
-## 12.3 Website Structure and Functionality
-
-Mozilla Developer Network (MDN) (n.d.). *HTML: Structuring Content*. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content (Accessed: 2 November 2026).
-
-Mozilla Developer Network (MDN) (n.d.). *HTML Forms and Buttons*. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_forms (Accessed: 2 November 2026).
-
-Mozilla Developer Network (MDN) (n.d.). *Responsive Web Design*. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design (Accessed: 2 November 2026).
-
-Mozilla Developer Network (MDN) (n.d.). *JavaScript Guide*. Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide (Accessed: 2 November 2026).
-
-## 12.4 Project Documentation and Version Control
-
-GitHub Docs (n.d.). *Uploading a Project to GitHub*. Available at: https://docs.github.com/en/get-started/start-your-journey/uploading-a-project-to-github (Accessed: 2 November 2026).
-
-GitHub Docs (n.d.). *About README Files*. Available at: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes (Accessed: 2 November 2026).
-
-GitHub Docs (n.d.). *Quickstart for Repositories*. Available at: https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories (Accessed: 2 November 2026).
-
-## 12.5 Completed Website
-
-Sweet Crumbs Bakery (2026). *Sweet Crumbs Bakery Website*. Available at: https://sweet-scrumbs-bakery.lovable.app/ (Accessed: 2 November 2026).
-
-# 13. Conclusion
+ # 12. Conclusion
 
 The Sweet Crumbs Bakery website provides an online platform where customers can learn about the bakery, explore products, view promotions and make enquiries.
 
@@ -371,10 +331,43 @@ The project demonstrates the use of website development tools, content organisat
 
 The final website provides a foundation for an online bakery business and can be improved further by adding additional functionality in the future.
 
----
+# 13. References
 
-**Prepared by:** Lehlohonolo Hlabane  
-**Student Number:** ST10480055  
-**Project:** Sweet Crumbs Bakery Website  
-**Development Platform:** Lovable  
-**Website:** https://sweet-scrumbs-bakery.lovable.app/
+## 13.1 Website Development and Design
+
+Lovable (n.d.). *AI Website Builder*. Available at: https://lovable.dev/ (Accessed: 2 November 2026).
+
+Lovable (n.d.). *Lovable Documentation*. Available at: https://docs.lovable.dev/ (Accessed: 2 November 2026).
+
+## 13.2 Images and Visual Resources
+
+Unsplash (n.d.). *Free Images and Photography*. Available at: https://unsplash.com/ (Accessed: 2 November 2026).
+
+Unsplash (n.d.). *Unsplash License*. Available at: https://unsplash.com/license (Accessed: 2 November 2026).
+
+Pexels (n.d.). *Free Stock Photos*. Available at: https://www.pexels.com/ (Accessed: 2 November 2026).
+
+Pixabay (n.d.). *Free Images and Stock Photography*. Available at: https://pixabay.com/ (Accessed: 2 November 2026).
+
+## 13.3 Website Structure and Functionality
+
+Mozilla Developer Network (MDN) (n.d.). *HTML: Structuring Content*. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content (Accessed: 2 November 2026).
+
+Mozilla Developer Network (MDN) (n.d.). *HTML Forms and Buttons*. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/HTML_forms (Accessed: 2 November 2026).
+
+Mozilla Developer Network (MDN) (n.d.). *Responsive Web Design*. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design (Accessed: 2 November 2026).
+
+Mozilla Developer Network (MDN) (n.d.). *JavaScript Guide*. Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide (Accessed: 2 November 2026).
+
+## 13.4 Project Documentation and Version Control
+
+GitHub Docs (n.d.). *Uploading a Project to GitHub*. Available at: https://docs.github.com/en/get-started/start-your-journey/uploading-a-project-to-github (Accessed: 2 November 2026).
+
+GitHub Docs (n.d.). *About README Files*. Available at: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes (Accessed: 2 November 2026).
+
+GitHub Docs (n.d.). *Quickstart for Repositories*. Available at: https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories (Accessed: 2 November 2026).
+
+## 13.5 Completed Website
+
+Sweet Crumbs Bakery (2026). *Sweet Crumbs Bakery Website*. Available at: https://sweet-scrumbs-bakery.lovable.app/ (Accessed: 2 November 2026).
+
